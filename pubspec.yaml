@@ -1,7 +1,7 @@
 name: speech_to_text_aliyun
 description: Speech To Text using Aliyun service
 version: 0.1.0
-author: 
+authors: 
   - Tao Zhu <tao@zeno.group>
 homepage: https://github.com/towerjoo/speech_to_text_aliyun
 
